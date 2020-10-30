@@ -10,3 +10,4 @@ How to transfer the spreadsheet chart and data into separate slides of a Google 
 
 <img width="1071" alt="Screen Shot 2020-10-30 at 11 28 17 PM" src="https://user-images.githubusercontent.com/36245159/97758533-bc220800-1b07-11eb-88d8-69c8562f5911.png">
 
+<img width="1271" alt="Screen Shot 2020-10-31 at 1 56 56 AM" src="https://user-images.githubusercontent.com/36245159/97765840-77ed3280-1b1c-11eb-9c64-db6918b901c7.png">
